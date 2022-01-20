@@ -1,0 +1,48 @@
+.bg-primary {
+  background-color: black;
+}
+
+h1 {
+  padding: 20px 20px 30px 30px;
+  color: #eaf0f1;
+  font-size: 80px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 10px;
+}
+
+.blink {
+  display: flex;
+  justify-content: center;
+}
+
+.choose {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 150px;
+  color: blueviolet;
+}
+
+.form-control {
+  color: aqua;
+  width: 80px;
+}
+
+.foot {
+  color: #eaf0f1;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.foot {
+  font-size: 15px;
+  opacity: 40;
+}
+
+.title:hover {
+  padding: 40px;
+  font-size: 50px;
+}
